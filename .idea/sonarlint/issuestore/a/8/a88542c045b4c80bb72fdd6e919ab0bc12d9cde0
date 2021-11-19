@@ -1,0 +1,24 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+?
+java:S5413")Verify that "remove()" is used correctly.(Ş—ç®
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(ì¾ó«ıÿÿÿÿ
+M	java:S1065"9Replace this use of System.out or System.err by a logger.(âˆák
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(îŸ±
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(ì¾ó«ıÿÿÿÿ
+M	java:S106C"9Replace this use of System.out or System.err by a logger.(âˆák
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(îŸ±
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦£¾÷ùÿÿÿÿ
+R
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ÎÆìô
+R
+java:S4973&"<Strings and Boxed types should be compared using "equals()".(ÎÆìô
+0
+java:S1700"Rename field "agenda"(¦£¾÷ùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÓÙ˜ªúÿÿÿÿ
